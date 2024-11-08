@@ -1,0 +1,55 @@
+site_name: Money Eva Knowledge Hub
+site_url: https://docs.moneyeva.com
+theme:
+  name: material
+  palette:
+    primary: custom
+  font:
+    text: Roboto
+  logo: https://moneyeva.com/android-chrome-192x192.png
+  features:
+    - navigation.expand
+extra_css:
+  - _stylesheets/extra.css
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Intro:
+    - 'What Is Money Eva?': intro/what-is-money-eva.md
+    - Using Scenarios (No Login): intro/using-scenarios-no-login.md
+    - Key Features: intro/key-features.md
+    - Account Setup: intro/account-setup.md
+  - Guides:
+    - Exploring Scenarios: guides/exploring-scenarios.md
+    - Creating Your Own: guides/creating-your-own.md
+    - 'Saving & Sharing': guides/saving-and-sharing.md
+    - Example Scenarios: guides/example-scenarios.md
+  - 'Inputs & Calculations':
+    - 'User Inputs (6 Types)': inputs-and-calculations/user-inputs.md
+    - 'Decisions/Expectations (7 Types)': inputs-and-calculations/decisions-expectations.md
+    - 'Calculations (2 Types)': inputs-and-calculations/calculations.md
+    - 'Math & Symbols Guide': inputs-and-calculations/math-and-symbols-guide.md
+  - Examples:
+    - Common Use Cases: examples/common-use-cases.md
+    - Calculating Tax Rates: examples/calculating-tax-rates.md
+    - Net Worth Analysis: examples/net-worth-analysis.md
+    - 'Budgeting & Savings Tips': examples/budgeting-and-savings-tips.md
+  - Advanced:
+    - Customization Tips: advanced/customization-tips.md
+    - Visualizations: advanced/visualizations.md
+    - Publishing Scenarios: advanced/publishing-scenarios.md
+  - FAQ:
+    - Common Questions: faq/common-questions.md
+    - Troubleshooting: faq/troubleshooting.md
+    - Contact Support: faq/contact-support.md
+  - Updates:
+    - New Features: updates/new-features.md
+    - Release Notes: updates/release-notes.md
+  - Community:
+    - Give Feedback: community/give-feedback.md
+    - Feature Requests: community/feature-requests.md
+    - Tips from Users: community/tips-from-users.md
