@@ -2,8 +2,7 @@
     --md-primary-fg-color:        #C45AB3;
     --md-primary-fg-color--light: #C45AB3;
     --md-primary-fg-color--dark:  #C45AB3;
-    /* TODO */
-    --md-accent-fg-color:         #C45AB3!important;
+    --md-accent-fg-color:         #C45AB3;
 }
 
 * {
