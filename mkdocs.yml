@@ -32,6 +32,7 @@ theme:
   font:
     text: Roboto
   logo: https://moneyeva.com/android-chrome-192x192.png
+  favicon: https://moneyeva.com/favicon.ico
   features:
     - navigation.expand
     - navigation.footer
