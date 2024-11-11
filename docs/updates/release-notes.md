@@ -4,7 +4,13 @@ Welcome to the Money Eva Release Notes! Stay informed about the latest improveme
 
 [Report a Bug :material-email-outline:](mailto:support@moneyeva.com)
 
-### Initial Release (October 28, 2024)
+
+### November 11, 2024
+- **What's New?**
+    - Knowledge Hub Integration: Easily access helpful resources and insights directly from the app.
+
+
+### October 28, 2024 (Initial Release)
 - **Core Features**:
     - Real-time charts for financial scenario exploration.
     - Community-driven scenarios for shared insights.

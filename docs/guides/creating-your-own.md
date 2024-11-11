@@ -26,7 +26,7 @@ Once in drafting mode, you can customize every aspect of your Eva to suit your n
 
 ## 2. Save as a Work-In-Progress
 
-Once you’re ready to save your Eva as a work-in-progress, you’ll need to provide a **URL Slug**. This unique identifier will make your Eva accessible under your screen name (e.g., `moneyeva.com/u/[your-screen-name]/[your-url-slug]`) after it’s published.
+Once you’re ready to save your Eva as a work-in-progress, you’ll need to provide a **Permanent Link**. This unique identifier will make your Eva accessible under your screen name (e.g., `moneyeva.com/u/[your-screen-name]/[your-permanent-link]`) after it’s published.
 
 ### Auto-Save
 
@@ -40,13 +40,13 @@ Your saved work-in-progress Evas are available in the **Avatar > My Evas** page.
 - View your list of published Evas.
 - Create new Evas.
 
-### Editing the URL Slug
+### Editing the Permanent Link
 
-If you need to update the URL slug for your Eva, you can do so at any point before publishing. This allows you to refine the slug to better reflect the scenario’s purpose or make it easier to share.
+If you need to update the Permanent Link for your Eva, you can do so at any point before publishing. This allows you to refine the link to better reflect the scenario’s purpose or make it easier to share.
 
 
 !!! warning
-    Once an Eva is published, it cannot be unpublished. If you're updating an Eva and decide to edit its URL slug, the changes will be published as a new Eva with the updated URL. The original Eva will remain accessible at its previous URL and will not be altered. Be mindful of this when making updates to avoid creating multiple versions unintentionally.
+    Once an Eva is published, it cannot be unpublished. If you're updating an Eva and decide to edit its Permanent Link, the changes will be published as a new Eva with the updated URL. The original Eva will remain accessible at its previous URL and will not be altered. Be mindful of this when making updates to avoid creating multiple versions unintentionally.
 
 
 Saving your Eva as a work-in-progress gives you the flexibility to refine it over time, ensuring it’s fully polished before you share it with others.
@@ -68,7 +68,7 @@ If the preview looks good, click the **Checkmark** button to publish your Eva.
 
 Once published:
 
-- Your Eva will be publicly accessible under your screen name and URL slug.
+- Your Eva will be publicly accessible under your screen name and permanent link.
 - Published Evas **cannot be unpublished**, but you can update them at any time to make improvements or corrections.
 
 ---
