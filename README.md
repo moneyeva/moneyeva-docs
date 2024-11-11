@@ -20,19 +20,25 @@ To contribute or run the Knowledge Hub locally, follow these steps:
 
 1. Clone the repository:
 
-   git clone https://github.com/moneyeva/moneyeva-docs.git  
-   cd moneyeva-docs
+    ```bash
+    git clone https://github.com/moneyeva/moneyeva-docs.git  
+    cd moneyeva-docs
+    ```
 
 2. Install the required dependencies:
 
-   pip install mkdocs  
-   pip install -e .
+    ```bash
+    pip install mkdocs  
+    pip install -e .
+    ```
 
 3. Run the documentation locally:
 
-   mkdocs serve
+    ```bash
+    mkdocs serve
+    ```
 
-4. Access the local documentation at `http://127.0.0.1:8000/`.
+4. Access the local documentation at http://127.0.0.1:8000/.
 
 ---
 
