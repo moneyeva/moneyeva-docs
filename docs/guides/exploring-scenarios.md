@@ -7,6 +7,10 @@ In Money Eva, you’ll find a range of scenarios, or “Evas,” created to help
 1. **Search or Browse**: Use the search bar on the main page to quickly find scenarios relevant to your needs, or browse through popular topics. From saving for retirement to deciding whether to rent or buy, there’s a wide variety to explore.
 2. **Open an Eva**: Click on a title to start viewing it in detail. Each is interactive, allowing you to enter values and adjust settings to match your situation.
 3. **Adjust Inputs**: Modify inputs to fit your personal financial information, like monthly savings, expected return on investments, or time horizon. Small adjustments reveal how different factors impact the results, giving you insights tailored to your goals.
+
+    !!! info
+        Visit the [**Cash Flow & Investment Basics**](/calculation-breakdown/cash-flow-and-investment-basics/#why-one-global-rate) page to explore typical market investment return rates and inflation rates.
+
 4. **Real-Time Results**: As you adjust values, charts and calculations update instantly, showing you how these choices affect either future values or today’s purchasing power. Toggle between these views for a full perspective.
 
 ## Further Options for Customization
@@ -15,8 +19,8 @@ If the Eva you’re viewing isn’t an exact match for your needs, you have two 
 
 - **Tailor It to Your Needs**: Click this button to enter drafting mode, where you can adjust equations, add new inputs, or modify steps. In this mode, you have complete control to reshape the scenarios. 
 
-!!! warning
-    If you’re not logged in, your changes won’t be saved. To save and create your own version, log in and make the adjustments to build personalized scenarios.
+    !!! warning
+        If you’re not logged in, your changes won’t be saved. To save and create your own version, log in and make the adjustments to build personalized scenarios.
 
 - **Search Similar**: If you’d like to see other scenarios on a similar topic, click this button to return to the search screen. Money Eva will automatically search based on the current Eva title to help you find other options that might be a better fit.
 

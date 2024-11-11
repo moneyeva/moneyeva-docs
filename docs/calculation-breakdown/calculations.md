@@ -1,4 +1,4 @@
-# Calculations (2 Types)
+# Calculations
 
 Calculations in Money Eva are evaluated at each **whole-year point**, allowing you to define intermediate results until deriving the final evaluation of your scenario. These calculations help you create reusable variables and calculate cash values for your scenario.
 
@@ -27,11 +27,10 @@ Calculations in Money Eva are evaluated at each **whole-year point**, allowing y
 
 ### **Cash Value**
 - **Description**: A numerical calculation representing the ultimate result of the scenario at each whole-year point. All preceding variable symbols, including those from calculations and cash flows, are available for use in defining this final value.
-- **Use Case**: Defines key metrics such as total net worth, cumulative savings, or other summary value for the scenario.
 
 - **Output**: Produces the **final numerical result**, evaluated at each whole-year interval.
 
 ---
 
-These calculation types, combined with user inputs and Year 0 decisions/expectations, give you the flexibility to craft detailed, dynamic scenarios that evolve over time. By leveraging intermediate calculations and final cash values, you can model a wide range of financial situations with accuracy and insight.
+These calculation types, combined with inputs and Year 0 decisions/expectations, give you the flexibility to craft detailed, dynamic scenarios that evolve over time. By leveraging intermediate calculations and final cash values, you can model a wide range of financial situations with accuracy and insight.
 

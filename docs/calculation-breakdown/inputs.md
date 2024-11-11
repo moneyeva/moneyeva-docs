@@ -1,10 +1,10 @@
-# User Inputs (6 Types)
+# Inputs
 
-Money Eva supports six primary input types, allowing you to define key variables for your financial scenarios with precision and clarity. Each input type produces a unique variable symbol that can be used in your calculations, making scenarios both flexible and intuitive.
+Money Eva supports six primary types of input, allowing you to define key variables for your financial scenarios with precision and clarity. Each input type produces a unique variable symbol that can be used in your calculations, making scenarios both flexible and intuitive.
 
 ---
 
-## Primary Input Types
+## Primary Types
 
 ### 1. **Amount**
 - **Description**: A single input box for entering a currency value.  
@@ -62,7 +62,7 @@ Money Eva supports six primary input types, allowing you to define key variables
 
 ---
 
-## Additional Input Types
+## Additional Types
 
 These specialized input types are designed to enhance scenarios that require an age-based perspective or retirement planning. 
 

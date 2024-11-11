@@ -6,7 +6,6 @@ Money Eva allows you to save your inputs for quick access and revisit them later
 
 ## Saving Your Inputs
 
-### Memory Slots
 When viewing an Eva, logged-in users can save their inputs to one of **five memory slots**. These slots allow you to quickly recall specific input combinations, making it easy to experiment with different setups or revisit past calculations.
 
 ### How to Save

@@ -1,4 +1,4 @@
-# Decisions/Expectations (7 Types)
+# Decisions/Expectations
 
 Decisions and expectations are definitions evaluated against **Year 0**, the starting point of your scenario. They help you set up financial actions or anticipate future events, creating variables that can be used throughout the rest of calculation. Below are the seven types, each with its unique fields and output.
 

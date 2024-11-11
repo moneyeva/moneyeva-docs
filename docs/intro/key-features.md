@@ -4,11 +4,11 @@ Money Eva is packed with features that make exploring financial scenarios easy, 
 
 ## 1. Searchable Scenario Library
 
-Easily find the scenarios that matter most to you with our searchable library. From retirement planning to savings goals, each scenario is built to address real financial questions. Simply search or browse to start exploring.
+Easily find the scenarios that matter most to you. From retirement planning to savings goals, each scenario is built to address real financial questions, built by the community. Simply search or browse to start exploring.
 
 ## 2. Customizable Inputs
 
-Every scenario offers easy-to-use inputs, such as income, expenses, and investment rates, allowing you to tailor calculations to your specific situation. With six different input types, you can adjust values to reflect real-life numbers, making each scenario relevant to you.
+Every scenario offers easy-to-use inputs, such as income, expenses, and investment rates, allowing you to tailor calculations to your specific situation. With six different types of input, you can adjust values to reflect real-life numbers, making each scenario relevant to you.
 
 ## 3. Real-Time Visual Feedback
 

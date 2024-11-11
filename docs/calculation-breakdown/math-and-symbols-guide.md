@@ -15,11 +15,12 @@ Money Eva is designed around simple math operations, enabling you to create prec
 - **Division (`/`)**: Divide one value or variable by another.
 
     !!! info
-        - **Important Note**: If the denominator evaluates to zero, Money Eva replaces it with a very small number to avoid undefined results. This ensures that the calculation yields an extremely large number, signaling an error in the result.  
-            - You can use this behavior to test whether a number equals a specific value. For example, `1 - A / A` will result in zero if A is non-zero and one if A is zero. By multiplying this result with another value, you can implement limited conditional logic.
+        **Important Note**: If the denominator evaluates to zero, Money Eva replaces it with a very small number to avoid undefined results. This ensures that the calculation yields an extremely large number, signaling an error in the result.  
+
+        - You can use this behavior to test whether a number equals a specific value. For example, `1 - A / A` will result in zero if A is non-zero and one if A is zero. By multiplying this result with another value, you can implement limited conditional logic.
 
 !!! info
-    - **Note**: To enter a negative number, such as negative 5, simply use `0 - 5`, as single negative signs aren’t supported.
+    **Note**: To enter a negative number, such as negative 5, simply use `0 - 5`, as single negative signs aren’t supported.
 
 Basic arithmetic in Money Eva follows standard mathematical precedence: **multiplication (`*`)** and **division (`/`)** are evaluated before **addition (`+`)** and **subtraction (`-`)**, unless parentheses are used to explicitly define the order of operations.
 
@@ -87,7 +88,7 @@ Variable symbols represent values in your scenario, each with a specific type an
     - Enter `0.05` for **5%**.
     - If you input `5`, it will be interpreted as **500%**, which is typically not the intended value.
 
-    This is slightly different from percentage user inputs, where you can simply type `5` in the input box with a `%` suffix, and the system automatically interprets it as **5%**. Be mindful of this distinction when working with percentage fields in calculations.
+    This is slightly different from percentage inputs, where you can simply type `5` in the input box with a `%` suffix, and the system automatically interprets it as **5%**. Be mindful of this distinction when working with percentage fields in calculations.
 
 
 ---

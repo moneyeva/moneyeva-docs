@@ -12,6 +12,9 @@
     letter-spacing: 0.02rem;
     font-weight: 500;
 }
+.md-content__inner h4, .md-content__inner h5, .md-content__inner h6 {
+    letter-spacing: 0.02rem;
+}
 strong {
     font-weight: 600!important;
 }
@@ -34,6 +37,9 @@ strong {
 /* .md-header__title--active .md-header__topic .md-ellipsis {
     font-weight: 500;
 } */
+/* label.md-nav__link {
+    font-weight: 500;
+} */
 .md-typeset .admonition.warning, .md-typeset details.warning {
     border-color: #FFC107;
 }
@@ -42,4 +48,14 @@ strong {
 }
 .md-typeset .warning>.admonition-title:before, .md-typeset .warning>summary:before {
     background-color: #FFC107;
+}
+
+.youtube {
+    color: #EE0F0F;
+}
+.tiktok {
+    color: #010101;
+}
+.github {
+    color: #171515;
 }

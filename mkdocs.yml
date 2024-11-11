@@ -3,22 +3,77 @@ site_url: https://docs.moneyeva.com
 theme:
   name: material
   palette:
-    primary: custom
-    accent: custom
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+      primary: custom
+      accent: custom
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: custom
+      accent: custom
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+      primary: custom
+      accent: custom
+  
   font:
     text: Roboto
   logo: https://moneyeva.com/android-chrome-192x192.png
   features:
     - navigation.expand
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.sections
+    - search.highlight
+    - search.suggest
+copyright: © 2024 Money Eva. This Knowledge Hub is open source and shaped by community contributions on GitHub.
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/moneyeva/moneyeva-docs
+      name: 'GitHub Repository'
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@learnmoneyeva
+      name: 'YouTube @learnmoneyeva'
+    - icon: fontawesome/brands/tiktok
+      link: https://www.tiktok.com/@learnmoneyeva
+      name: 'TikTok @learnmoneyeva'
 extra_css:
+  - https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css
   - _stylesheets/extra.css
+extra_javascript:
+  - https://code.jquery.com/jquery-3.6.0.min.js
+  - https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js
+  - _javascripts/datatable.js
 markdown_extensions:
-  - admonition
+  - admonition  # For callout boxes
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - smarty  # For curly quotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+plugins:
+  - search
+  - tax_rates_table
 
 nav:
-  - Home: index.md
+  - 'Overview': index.md
   - Intro:
     - 'What Is Money Eva?': intro/what-is-money-eva.md
     - Using Scenarios (No Login): intro/using-scenarios-no-login.md
@@ -29,28 +84,21 @@ nav:
     - Creating Your Own: guides/creating-your-own.md
     - 'Saving & Sharing': guides/saving-and-sharing.md
     - Example Scenarios: guides/example-scenarios.md
-  - 'Inputs & Calculations':
-    - 'User Inputs (6 Types)': inputs-and-calculations/user-inputs.md
-    - 'Decisions/Expectations (7 Types)': inputs-and-calculations/decisions-expectations.md
-    - 'Calculations (2 Types)': inputs-and-calculations/calculations.md
-    - 'Math & Symbols Guide': inputs-and-calculations/math-and-symbols-guide.md
+  - 'Calculation Breakdown':
+    - 'Cash Flow & Investment Basics': calculation-breakdown/cash-flow-and-investment-basics.md
+    - 'Inputs': calculation-breakdown/inputs.md
+    - 'Decisions/Expectations': calculation-breakdown/decisions-expectations.md
+    - 'Calculations': calculation-breakdown/calculations.md
+    - 'Math & Symbols Guide': calculation-breakdown/math-and-symbols-guide.md
   - Examples:
     - Common Use Cases: examples/common-use-cases.md
     - Calculating Tax Rates: examples/calculating-tax-rates.md
-    - Net Worth Analysis: examples/net-worth-analysis.md
-    - 'Budgeting & Savings Tips': examples/budgeting-and-savings-tips.md
-  - Advanced:
-    - Customization Tips: advanced/customization-tips.md
-    - Visualizations: advanced/visualizations.md
-    - Publishing Scenarios: advanced/publishing-scenarios.md
   - FAQ:
     - Common Questions: faq/common-questions.md
     - Troubleshooting: faq/troubleshooting.md
-    - Contact Support: faq/contact-support.md
   - Updates:
     - New Features: updates/new-features.md
     - Release Notes: updates/release-notes.md
   - Community:
     - Give Feedback: community/give-feedback.md
-    - Feature Requests: community/feature-requests.md
     - Tips from Users: community/tips-from-users.md

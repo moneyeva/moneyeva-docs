@@ -13,7 +13,7 @@ You can begin drafting your Eva in two ways:
      - Alternatively, navigate to **Avatar -> My Evas** and click on **"Create a New Eva"**.
 
 !!! warning
-    If you’re not logged in, you can still explore and draft changes, but your edits won’t be saved. To save your progress, log in or sign up before you begin drafting.
+    If you’re not logged in, you can still explore and draft changes, but your edits cannot be saved. To save your progress, log in or sign up before you begin drafting.
 
 
 Once in drafting mode, you can customize every aspect of your Eva to suit your needs. Money Eva supports:
