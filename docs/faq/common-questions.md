@@ -6,7 +6,7 @@
 
 Dive into pre-built scenarios or create your own—no financial jargon, just clear and simple tools to help you make better decisions.
 
-Learn more on our [What Is Money Eva?](/intro/what-is-money-eva/) page.
+Learn more on our [What Is Money Eva?](../intro/what-is-money-eva.md) page.
 
 ---
 
@@ -55,9 +55,9 @@ Your financial exploration stays yours, and we’re here to keep it that way.
 
 ### 7. Can I suggest a new scenario or feature?
 
-Absolutely! Scenarios on Money Eva are entirely community-driven, so it’s as simple as creating your own and publishing it to share your insights with everyone. Your work will be discoverable under your screen name. Check out our [Creating Your Own](/guides/creating-your-own/) page to get started.
+Absolutely! Scenarios on Money Eva are entirely community-driven, so it’s as simple as creating your own and publishing it to share your insights with everyone. Your work will be discoverable under your screen name. Check out our [Creating Your Own](../guides/creating-your-own.md) page to get started.
 
-If you think something is missing or have ideas for improvement, we’d love to hear from you! Visit our [Give Feedback](/community/give-feedback) page to learn how to share your suggestions with us.
+If you think something is missing or have ideas for improvement, we’d love to hear from you! Visit our [Give Feedback](../community/give-feedback.md) page to learn how to share your suggestions with us.
 
 ---
 

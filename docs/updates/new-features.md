@@ -15,5 +15,5 @@ We’re always working to make Money Eva more intuitive and helpful. Here are a 
 - **AI Insights**: Tools to help explain calculations with simple, on-demand explanations.
 - **Enhanced Usability**: Small tweaks and bug fixes to improve your experience across devices, like smoother interactions and better accessibility.
 
-Your feedback plays a big role in shaping what comes next—learn how on our [Give Feedback](/community/give-feedback) page!
+Your feedback plays a big role in shaping what comes next—learn how on our [Give Feedback](../community/give-feedback.md) page!
 

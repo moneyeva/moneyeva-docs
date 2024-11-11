@@ -5,27 +5,18 @@ theme:
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
       primary: custom
       accent: custom
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
       primary: custom
       accent: custom
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to system preference
       primary: custom
       accent: custom
   
@@ -41,9 +32,16 @@ theme:
     - navigation.sections
     - search.highlight
     - search.suggest
-copyright: © 2024 Money Eva. This Knowledge Hub is open source and shaped by community contributions on GitHub.
+copyright: >
+  © 2024 Money Eva. This Knowledge Hub is open source and shaped by community contributions 
+  on <a href="https://github.com/moneyeva/moneyeva-docs" target="_blank" rel="noopener">GitHub</a>.
+  <br>
+  <a href="#__consent">Change cookie settings</a>
 extra:
   social:
+    - icon: fontawesome/solid/rocket
+      link: https://moneyeva.com
+      name: 'Money Eva App'
     - icon: fontawesome/brands/github
       link: https://github.com/moneyeva/moneyeva-docs
       name: 'GitHub Repository'
@@ -53,6 +51,29 @@ extra:
     - icon: fontawesome/brands/tiktok
       link: https://www.tiktok.com/@learnmoneyeva
       name: 'TikTok @learnmoneyeva'
+  analytics:
+    provider: google
+    property: G-6X25VSVL2B
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >- 
+            Spot something to improve? Share your feedback directly on the <a href="https://github.com/moneyeva/moneyeva-docs" target="_blank" rel="noopener">GitHub repo</a> of this Knowledge Hub!
+  consent:
+      title: Cookie consent
+      description: >- 
+        We use cookies to recognize your repeated visits and preferences, as well
+        as to measure the effectiveness of our documentation and whether users
+        find what they're searching for. With your consent, you're helping us to
+        make our documentation better.
 extra_css:
   - https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css
   - _stylesheets/extra.css

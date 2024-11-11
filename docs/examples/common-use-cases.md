@@ -46,7 +46,7 @@ Money Eva’s flexibility allows users to model a wide range of financial scenar
     3. Add a **Retirement Age** input to enable distinct market investment returns after retirement.
     4. Exclude pension plans or external income sources outside personal retirement savings from the post-retirement spending.
     5. Allocate savings and withdrawals across tax-advantaged and non-tax-sheltered accounts based on their capacity and rules.
-    6. When [modeling withdrawals from non-tax-sheltered accounts](/calculation-breakdown/cash-flow-and-investment-basics/#withdrawals-from-non-tax-sheltered-accounts), account for the capital gains tax portion, which reduces the investment value (`iv`) growth.
+    6. When [modeling withdrawals from non-tax-sheltered accounts](../calculation-breakdown/cash-flow-and-investment-basics.md#withdrawals-from-non-tax-sheltered-accounts), account for the capital gains tax portion, which reduces the investment value (`iv`) growth.
 
     !!! info
         **Note**: Money Eva does not model mandatory withdrawals from tax-advantaged accounts (e.g., US RMD, Canada RRIF, or Australian Superannuation). For most people, these withdrawals typically reduce account value by less than 5%.
@@ -65,7 +65,7 @@ Money Eva’s flexibility allows users to model a wide range of financial scenar
 
 - **What to Compare**: Choose an approach based on your financial situation:
     - **Option A**: If you have the full amount for a cash purchase, treat both the purchase and financing plans as lost investment opportunities. Compare to see which option results in the smallest lost opportunity.
-    - **Option B**: If financing is your only option (e.g., via installment payments), the concept of lost investment opportunity doesn’t apply. Instead, use the [Inflation-Adjusted Cost Basis (cb)](/calculation-breakdown/cash-flow-and-investment-basics/#key-uses-of-inflation-adjusted-cost-basis) to evaluate the total purchasing power required.
+    - **Option B**: If financing is your only option (e.g., via installment payments), the concept of lost investment opportunity doesn’t apply. Instead, use the [Inflation-Adjusted Cost Basis (cb)](../calculation-breakdown/cash-flow-and-investment-basics.md#key-uses-of-inflation-adjusted-cost-basis) to evaluate the total purchasing power required.
 
 - **Key Steps**:
     1. Define the one-time expense as **Invest** for upfront costs.
@@ -125,7 +125,7 @@ Money Eva’s flexibility allows users to model a wide range of financial scenar
         - Post-retirement spending levels as negative cash flows.
     3. Use the **Age** input to represent your current age.
     4. Enable the separate post-retirement **Market Investment Return** rate by defining a **Retirement Age** input to reflect more conservative investment growth after retirement.
-    5. If you have non-tax-sheltered accounts, [include the dynamic scaling factor for withdrawals to account for capital gains tax](/calculation-breakdown/cash-flow-and-investment-basics/#withdrawals-from-non-tax-sheltered-accounts).
+    5. If you have non-tax-sheltered accounts, [include the dynamic scaling factor for withdrawals to account for capital gains tax](../calculation-breakdown/cash-flow-and-investment-basics.md#withdrawals-from-non-tax-sheltered-accounts).
     6. Consider incorporating additional income sources, such as rental income or part-time work, as **Cash Flows**.
 
 - **Insights**: Identify the earliest feasible retirement age by comparing how long your savings will last under each scenario. Explore how adjustments to spending, contributions, or expected returns can impact the feasibility of early retirement.

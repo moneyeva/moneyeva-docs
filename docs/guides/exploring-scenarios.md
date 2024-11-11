@@ -9,7 +9,7 @@ In Money Eva, you’ll find a range of scenarios, or “Evas,” created to help
 3. **Adjust Inputs**: Modify inputs to fit your personal financial information, like monthly savings, expected return on investments, or time horizon. Small adjustments reveal how different factors impact the results, giving you insights tailored to your goals.
 
     !!! info
-        Visit the [**Cash Flow & Investment Basics**](/calculation-breakdown/cash-flow-and-investment-basics/#why-one-global-rate) page to explore typical market investment return rates and inflation rates.
+        Visit the [**Cash Flow & Investment Basics**](../calculation-breakdown/cash-flow-and-investment-basics.md#why-one-global-rate) page to explore typical market investment return rates and inflation rates.
 
 4. **Real-Time Results**: As you adjust values, charts and calculations update instantly, showing you how these choices affect either future values or today’s purchasing power. Toggle between these views for a full perspective.
 

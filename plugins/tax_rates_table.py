@@ -20,6 +20,6 @@ class TaxRatesTablePlugin(BasePlugin):
                     parts = file[:-3].split('--')
                     if len(parts) != 4:
                         raise ValueError(f"Invalid file name: {file}  File name must be in the format: country--jurisdiction--type--year.md")
-                    table += f"| {parts[0]} | {parts[1]} | {parts[2]} | {parts[3]} | [View]({url_path}/{file[:-3]}) |\n"
+                    table += f"| {parts[0]} | {parts[1]} | {parts[2]} | {parts[3]} | [View](./tax-rates/{file}) |\n"
 
         return markdown.replace("{{ tax_rates_table }}", table)

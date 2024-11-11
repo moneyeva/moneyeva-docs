@@ -7,14 +7,14 @@ This page dives into the foundational concepts of Money Eva, focusing on cash fl
 ## Cash Flow & Investment Assumptions
 
 ### Cash Flow: The Core Concept
-At the heart of Money Eva is [**Cash Flow**](/calculation-breakdown/math-and-symbols-guide/#1-cash-flow)—representing money moving in or out over time. Every scenario revolves around cash flows, tracked dynamically to show their impact over time.
+At the heart of Money Eva is [**Cash Flow**](./math-and-symbols-guide.md#1-cash-flow)—representing money moving in or out over time. Every scenario revolves around cash flows, tracked dynamically to show their impact over time.
 
 ### Assumption: Invest Free Cash
 Money Eva assumes that any **free cash** is invested in a **high-liquidity market investment**:
 
 - **Global Investment Return Rate**: All cash flows follow a single global market investment return rate for simplicity and consistency.
 - **High Liquidity**: This assumption ensures cash remains accessible for withdrawals when needed.
-- **"Market Investment Return After Retirement"**: When both [**Age**](/calculation-breakdown/user-inputs/#1-age) and [**Retirement Age**](/calculation-breakdown/user-inputs/#2-retirement-age) inputs are present, an additional box appears, allowing you to define a separate investment return rate specifically for post-retirement scenarios.
+- **"Market Investment Return After Retirement"**: When both [**Age**](./inputs.md#1-age) and [**Retirement Age**](./inputs.md#2-retirement-age) inputs are present, an additional box appears, allowing you to define a separate investment return rate specifically for post-retirement scenarios.
 
 ### Why One Global Rate?
 Using a single investment return rate streamlines modeling and provides clarity across scenarios. Users should deduct any applicable **management fee percentage** when entering the global rate to ensure accurate calculations.
@@ -44,7 +44,7 @@ Using a single investment return rate streamlines modeling and provides clarity 
 
     - **Emerging Markets**: Inflation rates can range from **4-7% annually**, driven by faster economic growth, currency volatility, or supply chain challenges.
 
-    - **High-Inflation Periods**: Inflation may spike to **10% or more** during economic crises, global disruptions, or hyperinflation scenarios. Inflation-Adjusted Cost Basis policies ([see below](/calculation-breakdown/cash-flow-and-investment-basics/#inflation-adjusted-cost-basis)) may be implemented during prolonged periods of hyperinflation.
+    - **High-Inflation Periods**: Inflation may spike to **10% or more** during economic crises, global disruptions, or hyperinflation scenarios. Inflation-Adjusted Cost Basis policies ([see below](./cash-flow-and-investment-basics.md#inflation-adjusted-cost-basis)) may be implemented during prolonged periods of hyperinflation.
 
     - **Deflationary Periods**: Occasionally, inflation may drop below **0%**, leading to deflation. This is rare and often linked to recessions or reduced consumer spending.
 
@@ -70,7 +70,7 @@ Withdrawals from non-tax-sheltered accounts require additional handling due to *
         - **Example Formula**: **1 / (1 - B<sub>%</sub> * (Ã<sub>iv</sub> - Ã<sub>cb</sub>) / Ã<sub>iv</sub>)**  
             - **B<sub>%</sub>** is the capital gains tax rate.
             - The formula calculates the scaling factor, which must be multiplied by the desired withdrawal cash flow to account for taxes and reflect the impact on the account value.
-            - See the [**Math & Symbols Guide**](/calculation-breakdown/math-and-symbols-guide/) page for more details.
+            - See the [**Math & Symbols Guide**](./math-and-symbols-guide.md) page for more details.
 
 - **Adjustment to `iv`**: The scaled withdrawal reduces the **Investment Value (iv)** to reflect its impact on future growth.
 
@@ -88,7 +88,7 @@ Capital gains are calculated using the formula: **Ã<sub>iv</sub> - Ã<sub>cb<
 Once **Ã<sub>iv</sub> - Ã<sub>cb</sub>** is determined, the relevant tax rate can be applied to calculate the taxable amount based on your jurisdiction or a percentage input.
 
 !!! info
-    For [assets](/calculation-breakdown/math-and-symbols-guide/#5-asset), use **A<sub>fmv</sub> - A<sub>cb</sub>** to determine capital gains for tax calculations, and remember to deduct any applicable closing costs.
+    For [assets](./math-and-symbols-guide.md#5-asset), use **A<sub>fmv</sub> - A<sub>cb</sub>** to determine capital gains for tax calculations, and remember to deduct any applicable closing costs.
 
 ---
 

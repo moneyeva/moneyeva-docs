@@ -9,26 +9,26 @@ Your go-to resource for learning how to make the most of <a href="https://moneye
 ## **Get Started**
 Not sure where to begin? Start with these key sections:
 
-- **[What Is Money Eva?](intro/what-is-money-eva.md)**: Learn about the app and its mission to simplify financial decisions.
-- **[Using Scenarios (No Login)](intro/using-scenarios-no-login.md)**: Discover how you can explore and customize scenarios without even creating an account.
-- **[Key Features](intro/key-features.md)**: Dive into the unique tools that make Money Eva stand out.
+- **[What Is Money Eva?](./intro/what-is-money-eva.md)**: Learn about the app and its mission to simplify financial decisions.
+- **[Using Scenarios (No Login)](./intro/using-scenarios-no-login.md)**: Discover how you can explore and customize scenarios without even creating an account.
+- **[Key Features](./intro/key-features.md)**: Dive into the unique tools that make Money Eva stand out.
 
 ---
 
 ## **Explore & Create**
 Ready to dive deeper? Check out these guides:
 
-- **[Exploring Scenarios](guides/exploring-scenarios.md)**: Tips for finding and understanding the right scenarios for your needs.
-- **[Creating Your Own](guides/creating-your-own.md)**: A step-by-step guide to crafting and publishing your own scenarios.
-- **[Saving & Sharing](guides/saving-and-sharing.md)**: Learn how to save your work and share insights with others.
+- **[Exploring Scenarios](./guides/exploring-scenarios.md)**: Tips for finding and understanding the right scenarios for your needs.
+- **[Creating Your Own](./guides/creating-your-own.md)**: A step-by-step guide to crafting and publishing your own scenarios.
+- **[Saving & Sharing](./guides/saving-and-sharing.md)**: Learn how to save your work and share insights with others.
 
 ---
 
 ## **Understand the Math**
 Want to know how everything works under the hood? These resources break it all down:
 
-- **[Cash Flow & Investment Basics](calculation-breakdown/cash-flow-and-investment-basics.md)**: Understand the core principles.
-- **[Math & Symbols Guide](calculation-breakdown/math-and-symbols-guide.md)**: Decode the symbols and calculations in your scenarios.
+- **[Cash Flow & Investment Basics](./calculation-breakdown/cash-flow-and-investment-basics.md)**: Understand the core principles.
+- **[Math & Symbols Guide](./calculation-breakdown/math-and-symbols-guide.md)**: Decode the symbols and calculations in your scenarios.
 
 ---
 
@@ -42,13 +42,13 @@ Our documentation is open-source and hosted on <a href="https://github.com/money
 ## **Stay Updated**
 Never miss an update or a new feature:
 
-- **[New Features](updates/new-features.md)**: Explore the latest tools and improvements.
-- **[Release Notes](updates/release-notes.md)**: Check out what’s new and what’s been fixed.
+- **[New Features](./updates/new-features.md)**: Explore the latest tools and improvements.
+- **[Release Notes](./updates/release-notes.md)**: Check out what’s new and what’s been fixed.
 
 ---
 
 ## **Join the Community**
 The heart of Money Eva is its growing community of users and contributors. Here’s how you can get involved:
 
-- **[Give Feedback](community/give-feedback.md)**: Let us know what you think or suggest improvements.
-- **[Tips from Users](community/tips-from-users.md)**: Discover and share tips for making the most of Money Eva.
+- **[Give Feedback](./community/give-feedback.md)**: Let us know what you think or suggest improvements.
+- **[Tips from Users](./community/tips-from-users.md)**: Discover and share tips for making the most of Money Eva.
