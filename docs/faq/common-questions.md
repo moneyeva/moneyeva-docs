@@ -2,7 +2,7 @@
 
 ### 1. What is Money Eva?
 
-<a href="https://moneyeva.com" target="_blank">**Money Eva** :material-open-in-new:</a> is a financial scenario exploration app that simplifies personal finance. It lets you visualize how your financial choices unfold over time with real-time charts, transparent calculations, and customizable scenarios.
+<a href="https://moneyeva.com" target="_blank" rel="noopener">**Money Eva** :material-open-in-new:</a> is a financial scenario exploration app that simplifies personal finance. It lets you visualize how your financial choices unfold over time with real-time charts, transparent calculations, and customizable scenarios.
 
 Dive into pre-built scenarios or create your own—no financial jargon, just clear and simple tools to help you make better decisions.
 

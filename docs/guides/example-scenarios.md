@@ -17,10 +17,10 @@ Explore these example scenarios, or "Evas," to see how Money Eva can help answer
 
 Below are some common scenarios to get you started:
 
-- <a href="https://moneyeva.com/u/Monopoly/should-i-quit-renting-and-buy" target="_blank">**Should You Buy or Rent?** :material-open-in-new:</a>
-- <a href="https://moneyeva.com/u/FinEducation/money-at-bank-vs-invested" target="_blank">**How Much Will Your Savings Grow Over 10 Years?** :material-open-in-new:</a>
-- <a href="https://moneyeva.com/u/WorkBee/invest-first-or-pay-off-debt" target="_blank">**Pay Off Debt or Grow Your Wealth: What Comes First?** :material-open-in-new:</a>
-- <a href="https://moneyeva.com/u/deva/cash-down-lease-or-finance-car" target="_blank">**How Much Does Leasing vs. Buying a Car Cost?** :material-open-in-new:</a>
+- <a href="https://moneyeva.com/u/Monopoly/should-i-quit-renting-and-buy" target="_blank" rel="noopener">**Should You Buy or Rent?** :material-open-in-new:</a>
+- <a href="https://moneyeva.com/u/FinEducation/money-at-bank-vs-invested" target="_blank" rel="noopener">**How Much Will Your Savings Grow Over 10 Years?** :material-open-in-new:</a>
+- <a href="https://moneyeva.com/u/WorkBee/invest-first-or-pay-off-debt" target="_blank" rel="noopener">**Pay Off Debt or Grow Your Wealth: What Comes First?** :material-open-in-new:</a>
+- <a href="https://moneyeva.com/u/deva/cash-down-lease-or-finance-car" target="_blank" rel="noopener">**How Much Does Leasing vs. Buying a Car Cost?** :material-open-in-new:</a>
 
 <!-- - [**What’s the Impact of Delaying Retirement Savings?**](#) -->
 

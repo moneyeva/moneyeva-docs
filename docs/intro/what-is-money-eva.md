@@ -1,6 +1,6 @@
 # What is Money Eva?
 
-**Money Eva** (<a href="https://moneyeva.com" target="_blank">moneyeva.com :material-open-in-new:</a>) is a financial scenario exploration app offering a fresh take on the complexities of personal finance. Focused on making key concepts—like timing and compounding—clear and accessible, Money Eva provides easy-to-use tools and transparent calculations to help you visualize how your financial choices unfold over time.
+**Money Eva** (<a href="https://moneyeva.com" target="_blank" rel="noopener">moneyeva.com :material-open-in-new:</a>) is a financial scenario exploration app offering a fresh take on the complexities of personal finance. Focused on making key concepts—like timing and compounding—clear and accessible, Money Eva provides easy-to-use tools and transparent calculations to help you visualize how your financial choices unfold over time.
 
 ## Why Did We Create Money Eva?
 

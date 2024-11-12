@@ -37,8 +37,8 @@ Your feedback helps shape the future of Money Eva! Whether you’ve found a bug,
 ---
 
 ## Want to Stay Updated?
-Follow **@learnmoneyeva** on <a href="https://www.youtube.com/@learnmoneyeva" target="_blank">:fontawesome-brands-youtube:{ .youtube } **YouTube** :material-open-in-new:</a> or <a href="https://www.tiktok.com/@learnmoneyeva" target="_blank">:fontawesome-brands-tiktok:{ .tiktok } **TikTok** :material-open-in-new:</a> for short videos illustrating use cases, answering common questions, and sharing important updates about Money Eva.  
+Follow **@learnmoneyeva** on <a href="https://www.youtube.com/@learnmoneyeva" target="_blank" rel="noopener">:fontawesome-brands-youtube:{ .youtube } **YouTube** :material-open-in-new:</a> or <a href="https://www.tiktok.com/@learnmoneyeva" target="_blank" rel="noopener">:fontawesome-brands-tiktok:{ .tiktok } **TikTok** :material-open-in-new:</a> for short videos illustrating use cases, answering common questions, and sharing important updates about Money Eva.  
 
-Check out the <a href="https://blog.moneyeva.com" target="_blank">**Money Eva Blog** :material-open-in-new:</a> for weekly posts on investments, how-tos, user stories, and market trends. Subscribe to the newsletter to stay updated and join the conversation in the comments section.  
+Check out the <a href="https://blog.moneyeva.com" target="_blank" rel="noopener">**Money Eva Blog** :material-open-in-new:</a> for weekly posts on investments, how-tos, user stories, and market trends. Subscribe to the newsletter to stay updated and join the conversation in the comments section.  
 
-For those who want to contribute or explore deeper, check out our <a href="https://github.com/moneyeva/moneyeva-docs" target="_blank">:material-github:{ .github } **GitHub repository** :material-open-in-new:</a> for this Knowledge Hub—collaborate with the community and help improve the documentation!
+For those who want to contribute or explore deeper, check out our <a href="https://github.com/moneyeva/moneyeva-docs" target="_blank" rel="noopener">:material-github:{ .github } **GitHub repository** :material-open-in-new:</a> for this Knowledge Hub—collaborate with the community and help improve the documentation!

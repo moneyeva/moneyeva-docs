@@ -63,13 +63,13 @@ strong {
     color: #171515;
 }
 
-.md-social a[href="https://moneyeva.com"] svg {
+.md-social a[title="Money Eva App"] svg {
     display: none;
 }
-.md-social a[href="https://moneyeva.com"] {
+.md-social a[title="Money Eva App"] {
     position: relative;
 }
-.md-social a[href="https://moneyeva.com"]::after {
+.md-social a[title="Money Eva App"]::after {
     content: " ";
     display: inline-block;
     position: absolute;

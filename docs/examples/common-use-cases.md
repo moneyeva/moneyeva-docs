@@ -9,7 +9,7 @@ Money Eva’s flexibility allows users to model a wide range of financial scenar
 
 ## 1. **Rent vs. Buy Analysis**
 
-<a href="https://moneyeva.com/?search=Rent+Buy+Home" target="_blank">Search this topic on Money Eva :material-open-in-new:</a>
+<a href="https://moneyeva.com/?search=Rent+Buy+Home" target="_blank" rel="noopener">Search this topic on Money Eva :material-open-in-new:</a>
 
 - **Objective**: Compare the financial impact of renting versus buying a home over time.
   
@@ -32,7 +32,7 @@ Money Eva’s flexibility allows users to model a wide range of financial scenar
 
 ## 2. **Estimating Retirement Savings**
 
-<a href="https://moneyeva.com/?search=Retirement+Spending" target="_blank">Search this topic on Money Eva :material-open-in-new:</a>
+<a href="https://moneyeva.com/?search=Retirement+Spending" target="_blank" rel="noopener">Search this topic on Money Eva :material-open-in-new:</a>
 
 - **Objective**: Determine whether your current savings, contributions, and expected returns are sufficient to meet your retirement goals.
 
@@ -58,7 +58,7 @@ Money Eva’s flexibility allows users to model a wide range of financial scenar
 ## 3. **Budgeting for a Big Purchase**
 
 
-<a href="https://moneyeva.com/?search=Lease+Finance+Budget" target="_blank">Search this topic on Money Eva :material-open-in-new:</a>
+<a href="https://moneyeva.com/?search=Lease+Finance+Budget" target="_blank" rel="noopener">Search this topic on Money Eva :material-open-in-new:</a>
 
 
 - **Objective**: Plan for a major expense, such as buying a car, by comparing savings and financing options.
@@ -83,7 +83,7 @@ Money Eva’s flexibility allows users to model a wide range of financial scenar
 
 ## 4. **Annuity Plan vs. Self-Managed Savings**
 
-<a href="https://moneyeva.com/?search=Pension+Plan+PP" target="_blank">Search this topic on Money Eva :material-open-in-new:</a>
+<a href="https://moneyeva.com/?search=Pension+Plan+PP" target="_blank" rel="noopener">Search this topic on Money Eva :material-open-in-new:</a>
 
 
 - **Objective**: Compare the financial benefits of purchasing an annuity plan versus managing your own savings, based on your life expectancy.
@@ -110,7 +110,7 @@ Money Eva’s flexibility allows users to model a wide range of financial scenar
 
 ## 5. **Early Retirement Feasibility**
 
-<a href="https://moneyeva.com/?search=Retirement+Feasibility" target="_blank">Search this topic on Money Eva :material-open-in-new:</a>
+<a href="https://moneyeva.com/?search=Retirement+Feasibility" target="_blank" rel="noopener">Search this topic on Money Eva :material-open-in-new:</a>
 
 - **Objective**: Assess whether retiring earlier than planned is financially viable, given your current savings, expected contributions, and spending levels.
 
@@ -135,7 +135,7 @@ Money Eva’s flexibility allows users to model a wide range of financial scenar
 ## 6. **Saving for a Child’s Education**
 
 
-<a href="https://moneyeva.com/?search=Child+Education" target="_blank">Search this topic on Money Eva :material-open-in-new:</a>
+<a href="https://moneyeva.com/?search=Child+Education" target="_blank" rel="noopener">Search this topic on Money Eva :material-open-in-new:</a>
 
 - **Objective**: Plan and evaluate whether your savings and contributions will cover future education expenses, such as college or university tuition.
 
@@ -161,7 +161,7 @@ Money Eva’s flexibility allows users to model a wide range of financial scenar
 
 ## 7. **Pay Off Debt vs. Invest**
 
-<a href="https://moneyeva.com/?search=Payoff+Debt" target="_blank">Search this topic on Money Eva :material-open-in-new:</a>
+<a href="https://moneyeva.com/?search=Payoff+Debt" target="_blank" rel="noopener">Search this topic on Money Eva :material-open-in-new:</a>
 
 - **Objective**: Evaluate whether it’s more beneficial to use extra cash to pay off debt early or invest it for potential growth.
 
