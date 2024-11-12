@@ -38,5 +38,5 @@ Having trouble using Money Eva? Don’t worry—we’ve got you covered! This pa
 
 ---
 
-## **How do I report a bug or request help?**
-If none of the above solutions work, we’re here to help! Email us at [support@moneyeva.com :material-email-outline:](mailto:support@moneyeva.com) to report bugs or request assistance. Your input helps us make Money Eva better for everyone.
+## **How do I report a bug or get help?**
+Still need assistance? Visit our **[Give Feedback](../community/give-feedback.md)** page for detailed steps on reporting issues—your input helps make Money Eva better.
