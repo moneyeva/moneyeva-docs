@@ -9,13 +9,13 @@ Money Eva allows you to save your inputs for quick access and revisit them later
 When viewing an Eva, logged-in users can save their inputs to one of **five memory slots**. These slots allow you to quickly recall specific input combinations, making it easy to experiment with different setups or revisit past calculations.
 
 ### How to Save
-1. Click the **Heart** button to open the save options.
+1. Click the **Heart :material-heart-outline:** button to open the save options.
 2. Select an **empty memory slot** or overwrite an existing one.
 3. Enter a short, descriptive name to identify your saved inputs.
-4. Your inputs will now be stored and accessible anytime from the **Folder floating icon button**.
+4. Your inputs will now be stored and accessible anytime from the floating **Folder button :material-folder-open:**.
 
 ### Managing Saves
-From the **Folder floating icon button**, you can:
+From the floating **Folder button :material-folder-open:**, you can:
 
 - **Reload Author's Numbers**: Reset the Eva to its original inputs as designed by the author.
 - **Access Saved Slots**: Click on any of your saved memory slots to instantly load your previously saved inputs.

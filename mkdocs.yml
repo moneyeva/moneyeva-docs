@@ -33,8 +33,7 @@ theme:
     - search.highlight
     - search.suggest
 copyright: >
-  © 2024 Money Eva. This Knowledge Hub is open source and shaped by community contributions 
-  on <a href="https://github.com/moneyeva/moneyeva-docs" target="_blank" rel="noopener">GitHub</a>.
+  © 2024 Money Eva. This Knowledge Hub is open source and shaped by community contributions on GitHub.
   <br>
   <a href="#__consent">Change cookie settings</a>
 extra:
@@ -53,7 +52,7 @@ extra:
       name: 'TikTok @learnmoneyeva'
   analytics:
     provider: google
-    property: G-6X25VSVL2B
+    property: !ENV GOOGLE_ANALYTICS_PROPERTY
     feedback:
       title: Was this page helpful?
       ratings:
@@ -123,4 +122,5 @@ nav:
     - Release Notes: updates/release-notes.md
   - Community:
     - Give Feedback: community/give-feedback.md
+    - Report Abuse: community/report-abuse.md
     - Tips from Users: community/tips-from-users.md

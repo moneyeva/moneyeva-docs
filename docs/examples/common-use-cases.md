@@ -49,7 +49,7 @@ Money Eva’s flexibility allows users to model a wide range of financial scenar
     6. When [modeling withdrawals from non-tax-sheltered accounts](../calculation-breakdown/cash-flow-and-investment-basics.md#withdrawals-from-non-tax-sheltered-accounts), account for the capital gains tax portion, which reduces the investment value (`iv`) growth.
 
     !!! info
-        **Note**: Money Eva does not model mandatory withdrawals from tax-advantaged accounts (e.g., US RMD, Canada RRIF, or Australian Superannuation). For most people, these withdrawals typically reduce account value by less than 5%.
+        **Note**: Money Eva doesn’t model mandatory withdrawals from tax-advantaged accounts (e.g., US RMD, Canada RRIF, or Australian Superannuation) as they typically reduce account value by less than 5%. Market fluctuations over a lifetime far outweigh this impact.
 
 - **Insights**: Visualize the growth of your savings over time and evaluate whether they will last through your retirement years.
 

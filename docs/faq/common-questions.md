@@ -46,7 +46,7 @@ Creating an account, however, unlocks powerful benefits. Save your inputs to acc
 
 At Money Eva, keeping things simple means keeping your data private. We don’t store your name—just your email to identify your account. Login is password-free, using magic links or Sign in with Google for convenience and security.
 
-Other users can only see your screen name (which you pick at first login) and an avatar icon. The app automatically checks Gravatar using your email, so if you’ve set up a Gravatar, it will appear—otherwise, no avatar is shown. Your email address always stays private.
+Other users can only see your screen name (which you pick at first login) and an avatar image. The app automatically checks Gravatar using your email, so if you’ve set up a Gravatar, it will appear—otherwise, no avatar is shown. Your email address always stays private.
 
 Your financial exploration stays yours, and we’re here to keep it that way.
 
