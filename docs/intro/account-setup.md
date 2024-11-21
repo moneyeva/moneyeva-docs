@@ -26,6 +26,7 @@ After logging in, your profile avatar will appear in the top-right corner of the
 - **Preferences**: Customize your app experience with options like:
        - **Dark Mode**: Toggle between light and dark themes.
        - **Number Format**: Choose your preferred number format based on locale selected.
+       - **"Show Author's Instructions" by Default**: Enable or disable the automatic display of author-provided guidance for inputs.
 - **My Evas**: Access all scenarios (called "Evas") you’ve created, both published and work in progress, to manage and refine them as needed.
 
-Setting up an account is optional, but it unlocks a range of features that make Money Eva even more powerful. <a href="https://moneyeva.com/login" target="_blank" rel="noopener">**Sign up today** :material-open-in-new:</a> to start creating and personalizing your financial scenarios.
+Setting up an account is optional, but it unlocks a range of features that make Money Eva even more powerful. <a href="https://moneyeva.com/login" target="_blank" rel="noopener">**Sign up today**</a> to start creating and personalizing your financial scenarios.

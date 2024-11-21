@@ -31,14 +31,14 @@ Use the **“123” button** to break down calculations step-by-step and explore
 ---
 
 ### 5. Connect with the Community
-Join the conversation on <a href="https://www.youtube.com/@learnmoneyeva" target="_blank" rel="noopener">:fontawesome-brands-youtube:{ .youtube } **YouTube** :material-open-in-new:</a> and <a href="https://www.tiktok.com/@learnmoneyeva" target="_blank" rel="noopener">:fontawesome-brands-tiktok:{ .tiktok } **TikTok** :material-open-in-new:</a> for quick tips, use cases, and updates.  
+Join the conversation on <a href="https://www.youtube.com/@learnmoneyeva" target="_blank" rel="noopener">:fontawesome-brands-youtube:{ .youtube } **YouTube**</a> and <a href="https://www.tiktok.com/@learnmoneyeva" target="_blank" rel="noopener">:fontawesome-brands-tiktok:{ .tiktok } **TikTok**</a> for quick tips, use cases, and updates.  
 
-Check out the <a href="https://blog.moneyeva.com" target="_blank" rel="noopener">**Money Eva Blog** :material-open-in-new:</a> for weekly posts on investments, how-tos, user stories, and market trends—all designed to help you level up your money game. Subscribe to the newsletter to stay in the loop and join the comments to share ideas and connect with the community.
+Check out the <a href="https://blog.moneyeva.com" target="_blank" rel="noopener">**Money Eva Blog**</a> for weekly posts on investments, how-tos, user stories, and market trends—all designed to help you level up your money game. Subscribe to the newsletter to stay in the loop and join the comments to share ideas and connect with the community.
 
 
-Contribute directly on our <a href="https://github.com/moneyeva/moneyeva-docs" target="_blank" rel="noopener">:material-github:{ .github } **GitHub repository** :material-open-in-new:</a> to improve this Knowledge Hub!
+Contribute directly on our <a href="https://github.com/moneyeva/moneyeva-docs" target="_blank" rel="noopener">:material-github:{ .github } **GitHub repository**</a> to improve this Knowledge Hub!
 
 ---
 
 ## Got a Tip to Share?
-If you’ve discovered a helpful trick or way to use Money Eva, we’d love to feature it here! Email us your tip at **[support@moneyeva.com :material-email-outline:](mailto:support@moneyeva.com)** and join the growing community of Money Eva explorers.
+If you’ve discovered a helpful trick or way to use Money Eva, we’d love to feature it here! Email us your tip at **[support@moneyeva.com](mailto:support@moneyeva.com)** and join the growing community of Money Eva explorers.

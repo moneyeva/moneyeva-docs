@@ -1,10 +1,10 @@
 # Cash Flow & Investment Basics
 
-This page dives into the foundational concepts of Money Eva, focusing on cash flow, investment assumptions, and essential calculations like `iv` (Investment Value) and `cb` (Cost Basis). These tools simplify financial scenario modeling while maintaining precision and clarity.
+This page dives into the foundational concepts of Money Eva, focusing on cash flow, time value assumptions, and essential calculations like `iv` (Investment Value) and `cb` (Cost Basis). These tools simplify financial scenario modeling while maintaining precision and clarity.
 
 ---
 
-## Cash Flow & Investment Assumptions
+## Cash Flow & Time Value Assumptions
 
 ### Cash Flow: The Core Concept
 At the heart of Money Eva is [**Cash Flow**](./math-and-symbols-guide.md#1-cash-flow)—representing money moving in or out over time. Every scenario revolves around cash flows, tracked dynamically to show their impact over time.

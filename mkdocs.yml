@@ -105,6 +105,7 @@ nav:
     - Creating Your Own: guides/creating-your-own.md
     - 'Saving & Sharing': guides/saving-and-sharing.md
     - Example Scenarios: guides/example-scenarios.md
+    - '"Read More from Author" Link': guides/read-more-from-author-link.md
   - 'Calculation Breakdown':
     - 'Cash Flow & Investment Basics': calculation-breakdown/cash-flow-and-investment-basics.md
     - 'Inputs': calculation-breakdown/inputs.md

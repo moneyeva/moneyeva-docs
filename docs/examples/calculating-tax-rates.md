@@ -4,7 +4,7 @@
 
 This page provides a library of equations to calculate various tax rates, designed to be used in Money Eva's "[Define Variable (Numerical)](../calculation-breakdown/decisions-expectations.md#7-define-variable-numerical)" calculations. These examples cover tiered rate systems, deductions, and adjustments for different jurisdictions.
 
-Want to contribute? Visit our <a href="https://github.com/moneyeva/moneyeva-docs" target="_blank" rel="noopener">:material-github:{ .github } **GitHub repository** :material-open-in-new:</a>. Whether you want to refine existing examples, add new equations, or expand coverage for specific jurisdictions, your input can make this resource even more valuable!
+Want to contribute? Visit our <a href="https://github.com/moneyeva/moneyeva-docs" target="_blank" rel="noopener">:material-github:{ .github } **GitHub repository**</a>. Whether you want to refine existing examples, add new equations, or expand coverage for specific jurisdictions, your input can make this resource even more valuable!
 
 {{ tax_rates_table }}
 

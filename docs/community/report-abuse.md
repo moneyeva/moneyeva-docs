@@ -28,7 +28,7 @@ This ensures your report is processed quickly and effectively.
 
 ### Email Option
 
-You can also report abuse by emailing **[abuse@moneyeva.com :material-email-outline:](mailto:abuse@moneyeva.com)**. Be sure to include:
+You can also report abuse by emailing **[abuse@moneyeva.com](mailto:abuse@moneyeva.com)**. Be sure to include:
 
 - A description of the issue.
 - A link or details about the content in question.
