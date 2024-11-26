@@ -4,6 +4,12 @@ Welcome to the Money Eva Release Notes! Stay informed about the latest improveme
 
 [Report a Bug](mailto:support@moneyeva.com)
 
+### November 27, 2024
+
+- **What's New**
+    - **Smarter Search**: Our search now understands synonyms, helping you find the right Evas even if you search with similar words or phrases.
+    - **Keyword Highlights**: Search results now highlight your keywords, making it easier to spot what matters most.
+
 
 ### November 21, 2024
 
